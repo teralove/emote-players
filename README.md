@@ -10,10 +10,11 @@ Make other players do emotes
 * !emote bob dance   - The player named "Bob" will start dancing
 * !emote bob 21      - The player named "Bob" will start dancing 
 * !emote dance       - The selected player will start dancing
+* !emote 38          - The selected player will sit down
+* !emoteall dance    - Everyone will start dancing
 * !emoteall kitchen  - Every Elin will start kitchen dancing
-* !emoteall 51    	 - Every Elin will settle
 
-Arguments can be either text (ie "Bob" and "dance") or be IDs ("21" for dance id). Character IDs can also be used.
+Arguments can be either text (ie "Bob" and "dance") or be IDs ("21" for dance id).
 
 Commands are not case-sensitive. [slash](https://github.com/baldera-mods/slash) is supported but not required
 
