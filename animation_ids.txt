@@ -1,0 +1,72 @@
+****************************
+* Emote commands        
+****************************
+
+hi, hello, wave
+bow
+sad, cry, sob
+happy, laugh, lol
+win, victory
+dance
+taunt, bringit, comeon
+clap, applaud
+beg, sorry
+think, ponder, hmm
+love
+charge, attack
+point, there
+shy
+angry, anger, mad
+sit
+sir, ma'am, serve
+settle
+peace, v
+
+
+****************************
+* Animaiton IDs            
+****************************
+
+1 - 10
+11	alchemy crafting
+12	weapon crafting
+13	armor crafting
+14	receive???
+15	
+16	hi, hello, wave
+17	bow
+18	sad, cry, sob
+19	happy, laugh, lol
+20	win, victory
+21	dance
+22	taunt, bringit, comeon
+23	clap, applaud
+24	beg, sorry
+25	think, ponder, hmm
+26	love
+27	charge, attack
+28	point, there
+29	shy
+30	angry, anger, mad
+31	idle 1
+32	idle 2
+33	idle 3
+34	talk to npc 1
+35	talk to npc 2
+36	talk to npc 3
+37	combining items
+38	sit down
+39	stand up
+40	mount idle 1
+41	mount idle 2
+42	mount talk 1
+43	servant's bow - elin
+44	kitchen dance - elin	
+45	settle - human
+46	peace  - human
+47	settle - high elf
+48	peace  - high elf
+49	settle - castanic
+50	peace  - castanic
+51	settle - elin
+52	peace  - elin
