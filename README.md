@@ -22,4 +22,4 @@ Commands are not case-sensitive. [slash](https://github.com/baldera-mods/slash) 
 
 ### Info:
 * Client-side only, this means only you can see the emotes. You're not actually forcing others to do emotes.
-* Other animations can be played as well. See 'animation_ids.txt' for list of commands and IDs.
+* Other animations can be played as well. See ['animation_ids.txt'](https://github.com/teralove/emote-players/blob/master/animation_ids.txt) for list of commands and IDs.
